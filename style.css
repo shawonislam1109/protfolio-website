@@ -44,3 +44,49 @@
     padding-top: 20px;
     color: white;
 }
+/* bio header in this css code */
+.bio-data-header{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    position: relative;
+}
+.bio-data-header .header-1-bio{
+    text-align: center;
+}
+.bio-data-header h1{
+    padding-top: 20px;
+}
+hr{
+    height: 5px;
+    background-color: rgb(196, 121, 10);
+    width: 100px;
+    margin: 0 auto;
+}
+.bio-data-header h2{
+    padding-top: 20px;
+}
+
+.bio-data-header .span-bio{
+    color: orange;
+}
+.bio-data-header .paragraph-1{
+    padding-top: 20px;
+    width: 400px;
+}
+.bio-data-header .img-bio-data{
+    width: 500px;
+    float: right;
+    position: absolute;
+    right: 50px;
+    top: 80px;
+}
+.bio-data-header .button-first{
+    width: 100px;
+    margin-top:20px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    border-color: orange;
+    border-radius: 5px;
+}
