@@ -93,6 +93,9 @@ hr{
     width: 90%;
     margin: 0 auto;
     margin-top: 200px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;gitr
 }
 .flex-div{
     display: flex;
