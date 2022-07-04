@@ -89,3 +89,50 @@ hr{
     border-radius: 5px;
     font-weight: bold;
 }
+.second-bio-data{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.flex-div{
+    display: flex;
+}
+.div-2 img{
+    margin-top: 30px;
+    width: 60%;
+}
+.div-3{
+    width: 50%;
+    padding: 20px;
+    padding-top: 50px;
+}
+.div-3 .heading-3{
+    padding-bottom: 20px;
+    color: #a85b1b;
+    font-weight: bold;
+}
+.div-3 .heading-4{
+    color: blueviolet;
+}
+.div-3 .paragraph-10{
+    padding-top: 20px;
+    word-spacing: 2px;
+    line-height: 20px;
+    color: teal;
+    padding-bottom: 50px;
+}
+.div-3 .profile-anchor{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px;
+    background-color: #a85b1b;
+    color: white;
+    border-radius: 5px;
+}
+.header-profile{
+    text-align: center;
+}
+.hori-5{
+    text-align: center;
+    margin-top: 10px;
+}
