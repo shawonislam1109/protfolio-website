@@ -34,9 +34,11 @@
     }
 }
 .navgation-bar ul li{
-    padding: 8px;
+    padding: 10px;
     color: white;
     display: inline;
+    margin: 5px;
+    border-radius: 20px;
     background-image:linear-gradient(#d9a159,#cf8d3a);
 }
 .navgation-bar ul li a{
@@ -161,6 +163,7 @@ hr{
     box-shadow: 10px 10px 10px black;
     border-bottom-right-radius:20px;
     border-top-right-radius:20px;
+    border-bottom-left-radius:20px;
     margin-left: 70px;
 }
 .sec-1 p{
